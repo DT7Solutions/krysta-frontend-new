@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/krysta-frontend-new/static/css/main.6c612b52.css",
+    "main.js": "/krysta-frontend-new/static/js/main.2442fbf1.js",
+    "static/media/1.jpg": "/krysta-frontend-new/static/media/1.d2bc746f4f8b777df46c.jpg",
+    "index.html": "/krysta-frontend-new/index.html",
+    "main.6c612b52.css.map": "/krysta-frontend-new/static/css/main.6c612b52.css.map",
+    "main.2442fbf1.js.map": "/krysta-frontend-new/static/js/main.2442fbf1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c612b52.css",
+    "static/js/main.2442fbf1.js"
+  ]
+}
